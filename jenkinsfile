@@ -3,7 +3,7 @@ node('LABEL2') {
 
         git url: 'https://github.com/msteja143/game-of-life.git',
 
-            branch: 'scripted'
+            branch: 'master'
 
     }
 
