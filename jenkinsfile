@@ -1,4 +1,4 @@
-node('MAVEN_JDK8') {
+node('LABEL2') {
     stage('version control') {
 
         git url: 'https://github.com/khajadevopsmarch23/game-of-life.git',
